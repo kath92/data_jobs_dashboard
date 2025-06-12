@@ -1,4 +1,4 @@
-# Data jobs dashboard
+# Data jobs dashboard - Power BI
 Data job offers - insights
 
 <img width="739" alt="Dashboard" src="https://github.com/user-attachments/assets/c766dd98-0f11-4bf3-ad4b-ed305e866375" />
